@@ -1,0 +1,19 @@
+encoding: UTF-8
+url: https://routea0601.github.io/drinks/
+title: 路遊茶飲料區
+tagline: 路遊茶飲料區
+description: 路遊茶飲料區
+locale: zh_TW
+remote_theme: pages-themes/modernist@v0.2.0
+google_analytics: UA-78953126-2
+logo: /logo.jpg
+permalink: pretty
+markdown: CommonMarkGhPages
+liker_id: recca_chao
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-image-size
